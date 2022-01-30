@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CAMBIAR ENTRE ACTIVITYS</string>
+    <string name="tvTitulo">CONTROLES BÁSICOS</string>
+    <string name="etNombre">Escriba su nombre</string>
+    <string name="etApellido">Escriba su apellido</string>
+    <string name="btEnviarDatos">Enviar Datos</string>
+    <string name="tvTitulo2">DETERMINAR SI ES MAYOR DE EDAD</string>
+    <string name="Nombre">Ingrese su nombre</string>
+    <string name="Edad">Ingrese su edad</string>
+    <string name="EnviarDatos">Enviar Datos</string>
+    <string name="Siguiente">Siguiente</string>
+    <string name="Regresar">Regresar</string>
+j
+
+</resources>
