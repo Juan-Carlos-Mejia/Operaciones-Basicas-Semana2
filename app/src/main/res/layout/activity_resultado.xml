@@ -54,6 +54,7 @@
         android:layout_marginStart="148dp"
         android:layout_marginBottom="48dp"
         android:text="@string/Regresar"
+        android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/Resultado"
         app:layout_constraintStart_toStartOf="parent" />
 
