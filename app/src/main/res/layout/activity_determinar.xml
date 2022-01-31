@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#B4EC74"
     tools:context=".Determinar">
 
 
@@ -46,7 +47,8 @@
         android:hint="@string/Edad"
         android:inputType="textPersonName"
         app:layout_constraintBottom_toTopOf="@+id/EnviarDatos"
-        app:layout_constraintStart_toStartOf="parent" />
+        app:layout_constraintStart_toStartOf="parent"
+        tools:ignore="TouchTargetSizeCheck" />
 
     <Button
         android:id="@+id/EnviarDatos"

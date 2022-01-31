@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#3BAFA4"
     tools:context=".Resultado">
 
     <TextView
@@ -27,7 +28,9 @@
         android:layout_marginStart="24dp"
         android:layout_marginBottom="67dp"
         android:text=""
+        android:textColor="#000000"
         android:textSize="20sp"
+        android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/EdadRecibe"
         app:layout_constraintStart_toStartOf="parent" />
 
@@ -38,7 +41,9 @@
         android:layout_marginStart="24dp"
         android:layout_marginBottom="47dp"
         android:text=""
+        android:textColor="#000000"
         android:textSize="20sp"
+        android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/Regresar2"
         app:layout_constraintStart_toStartOf="parent" />
 
@@ -59,7 +64,9 @@
         android:layout_marginStart="24dp"
         android:layout_marginBottom="241dp"
         android:text=""
+        android:textColor="#000000"
         android:textSize="20sp"
+        android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
